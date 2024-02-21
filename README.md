@@ -12,6 +12,10 @@
     * Addressing Limitations of Pendent Systems
     * Reducing Healthcare Costs
       
+## Research report
+
+[Link to research paper.]()
+      
 ## Design
 
 * The system works by employing the use of an Android smartphone and its sensors to detect a fall and ping the nearest beacon.
