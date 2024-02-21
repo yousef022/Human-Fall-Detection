@@ -26,6 +26,12 @@
    * Flask server
    * Android Sensor SDK
    * Android Studio
+     
+## Prerequisites 
+
+* Android smartphone or any custom IoT device with built-in wifi capabilities.
+* Any Bluetooth LE beacon(s)
+* Any type of computer system (e.g: Laptop, Desktop,Raspberry PI) capable of hosting the Flask server.
   
 
 
