@@ -11,3 +11,21 @@
     * Enhanced Resident Safety
     * Addressing Limitations of Pendent Systems
     * Reducing Healthcare Costs
+      
+## Design
+
+* The system works by employing the use of an Android smartphone and its sensors to detect a fall and ping the nearest beacon.
+  
+* Context (purpose, intended audience, etc.)
+   * Meant to simulate a possible scenario in Long-Term care homes.
+     
+* Algorithms
+   * Checks if acceleration is less than or equal to one.
+     
+* Tools and Libraries used.
+   * Flask server
+   * Android Sensor SDK
+   * Android Studio
+  
+
+
