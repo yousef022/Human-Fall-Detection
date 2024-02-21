@@ -14,7 +14,7 @@
       
 ## Research report
 
-[Link to research paper.]()
+[Link to research paper.](https://drive.google.com/file/d/1gn15spMN4bT6DEOTxU0eHAaZ6X-A-emY/view?usp=sharing)
       
 ## Design
 
